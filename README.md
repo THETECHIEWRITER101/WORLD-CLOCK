@@ -22,7 +22,7 @@ AuraClock is a modern, feature-rich JavaFX-based desktop clock application.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd WORLD-CLOCK
+   cd WORLD-CLOCcK
    ```
 3. Build and run the application using Maven:
    ```bash
